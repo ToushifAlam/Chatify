@@ -118,3 +118,27 @@ This is a high-level overview of the architecture:
 
 This system leverages modern web technologies like **ReactJS**, **Node.js**, and **Socket.IO** to provide a seamless, real-time messaging experience. MongoDB serves as the database for persistent storage, while the app is deployed and hosted on **Render** and **MongoDB Atlas**, ensuring scalability and reliability.
 
+
+
+# Chatify
+
+**Chatify** is a Full Stack Chatting App that uses **Socket.io** for real-time communication and stores user details in encrypted format in a **MongoDB** database.
+
+## Tech Stack
+
+- **Client**: React JS
+- **Server**: Node JS, Express JS
+- **Database**: MongoDB
+
+## Demo
+
+[Click here to see the live demo](https://messaging-services.onrender.com/)
+
+## Run Locally
+
+### Clone the project:
+
+```bash
+git clone https://github.com/piyush-eon/mern-chat-app
+
+
