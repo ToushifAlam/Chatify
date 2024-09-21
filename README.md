@@ -140,25 +140,30 @@ This system leverages modern web technologies like **ReactJS**, **Node.js**, and
 
 ```bash
 git clone https://github.com/ToushifAlam/Chatify
+```
 
 Go to the project directory
 
 ```bash
 cd Chatify
+```
 
 Install dependencies
 
 ```bash
 npm install
+```
 
 ```bash
 cd frontend/
 npm install
+```
 
 Start the server
 
 ```bash
   npm run start
+```
 
 Start the Client
 
@@ -166,5 +171,6 @@ Start the Client
   //open now terminal
   cd frontend
   npm start
+```
 
 
