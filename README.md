@@ -1,6 +1,6 @@
 # Personal Information
-Name: Md Toushif Alam
+*Name: Md Toushif Alam*
 
-University: IIT Dhanbad
+*University: IIT Dhanbad*
 
-Department: Electronics and Communication Engineering
+*Department: Electronics and Communication Engineering*
