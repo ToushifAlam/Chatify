@@ -52,7 +52,7 @@ This is a high-level overview of the architecture:
 
 ### Architecture Diagram
 
-![Architecture Diagram](./docs/SystemDesignImage.png)
+![Architecture Diagram](./docs/System Design Image.png)
 
 - **Users** interact with the frontend (ReactJS) via HTTP requests and WebSocket connections.
 - **Frontend (ReactJS)** communicates with the **Backend (Node.js)** using API requests for authentication, chat messages, and uses **Socket.IO** for real-time updates.
