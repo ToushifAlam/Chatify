@@ -133,6 +133,7 @@ This system leverages modern web technologies like **ReactJS**, **Node.js**, and
 ## Demo
 
 [Click here to see the live demo](https://messaging-services.onrender.com/)
+![Demo](./docs/Demo.png)
 
 ## Run Locally
 
